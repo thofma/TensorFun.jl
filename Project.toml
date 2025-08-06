@@ -1,7 +1,10 @@
 name = "TensorFun"
 uuid = "25bf690a-ece5-45a1-abbe-acc9782b7521"
-authors = ["Tommy Hofmann <thofma@gmail.com>"]
 version = "0.1.0"
+authors = ["Tommy Hofmann <thofma@gmail.com>"]
 
 [deps]
 Oscar = "f1435218-dba5-11e9-1e4d-f1a5fab5fc13"
+
+[compat]
+Oscar = "1.4.1"
